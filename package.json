@@ -2,7 +2,7 @@
   "name": "adi",
   "author": "Edward Haase",
   "description": "Another dependency injector (Or anything but)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/Adi.js",
   "scripts": {   
 	"test": "./node_modules/.bin/mocha --reporter spec"
