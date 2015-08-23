@@ -11,6 +11,10 @@
     "mocha": "^2.2.5",
     "should": "^7.0.4"
   },
+  "repository": {
+	"type": "git",
+	"url": "git://github.com/edhaase/adi.git"
+  },
   "keywords": [
 	"DI", "dependency injection"
   ],

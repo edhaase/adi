@@ -1,4 +1,4 @@
-Adi
+adi
 ==
 
 Adi is a micro DI framework inspired by Angular, and implemented with the liberal abuse of Object.defineProperty
